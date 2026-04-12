@@ -22,9 +22,9 @@
 Для компиляции и запуска вам понадобится любой компилятор C++ (например, GCC или Clang).
 
 1. Скомпилируйте файл:
-   ```bash
-   g++ structures.cpp -o structures
-   ```
+```bash
+g++ structures.cpp -o structures
+```
 2. Запустите программу:
 
 ```Bash
